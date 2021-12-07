@@ -5,7 +5,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'BMYeonSung';
+    font-family: 'ChosunSm';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSm/ChosunSm.eot');
@@ -14,5 +14,5 @@
          url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSm/ChosunSm.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/webfontworld/ChosunSm/ChosunSm.ttf') format("truetype");
     font-display: swap;
-} 
+}
 </pre>
